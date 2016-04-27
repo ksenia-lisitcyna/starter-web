@@ -9,3 +9,5 @@ fjfjfjfjfjfjfjgit status
 ghghghghghg
 
 ## How to contribute
+## Copyright 
+jjjbjbjbjb
